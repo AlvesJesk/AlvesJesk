@@ -1,14 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)!+:%29;Meu+nome+é+Jessica+Alves;Sou+Bacharelanda+em+Sistemas+de+Informação;atualmente+no+5º+Período.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)!+:%29;Meu+nome+é+Jessica+Alves;Sou+Bacharelanda+em+Sistemas+de+Informação;atualmente+no+6º+Período.)](https://git.io/typing-svg)
 
 <br>
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlvesJesk&show_icons=true&count_private=true&hide_border=true&title_color=ff79c6&icon_color=f1fa8c&text_color=bd93f9&bg_color=282a36" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesJesk&layout=compact&hide_border=true&title_color=ff79c6&text_color=bd93f9&bg_color=282a36" />
-</div>
 
 <hr />
 
